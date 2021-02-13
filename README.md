@@ -4,6 +4,7 @@ In this project, we tried to create a statistical model to cluster driver behavi
 We will use Hierarchical clustering to identify and group the drivers based on their behavior and driving style. This identification of drivers can be used for improvements.
 
 ## Data preparation  
+`overview.csv`  
 the datasets, contains 42 parameters (columns) and 60 variables (observations),
 
 ### Data cleaning  
