@@ -11,3 +11,6 @@ We will use Hierarchical clustering to identify and group the drivers based on t
 `idle`:   Engine running time in idle mode expressed as HH:MM:SS  
 `pause`:  Engine running time with pause expressed as HH:MM:SS  
 `fuelr`:  How many litres of fuel the vehicle or driver has consumed per 100 km.  
+
+# Model  
+Using the **hierarchical clustering**, to identify clusters within the population.
