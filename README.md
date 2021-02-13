@@ -18,5 +18,5 @@ We will use Hierarchical clustering to identify and group the drivers based on t
 Before moving to data analysis, we need to clean our dataset:  
 converting types, replacing missing values with zeros.
 
-## Model  
+## The learning model  
 Using the **hierarchical clustering**, to identify clusters within the population.
